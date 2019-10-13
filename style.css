@@ -1,0 +1,77 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+    button {
+        box-shadow: inset 0px 3px 23px 10px #dedede, 14px 9px 20px #929292, 5px 10px 14px #9e9e9e;
+    
+}
+
+#quiz{
+    margin-bottom: 25px;
+}
+
+
+#phaseOne {
+    margin: 20px;
+    text-align: center;
+    box-shadow: inset 0px 3px 23px 10px #dedede, 10px 14px 7px #929292, 10px 5px 5px #9e9e9e;
+
+}
+
+#phaseTwo {
+    margin: 20px;
+    text-align: center;
+    box-shadow: inset 0px 3px 23px 10px #dedede, 10px 14px 7px #929292, 10px 5px 5px #9e9e9e;
+
+}
+
+#formEl {
+    margin: 20px;
+    text-align: center;
+    margin-top: -22px;
+    padding-top: 11px;
+    border-top: solid #dfdfdf;
+    border-width: 1px;
+}
+
+#sub {
+    text-align: center;
+    padding: 0px;
+    margin-left: -5px;
+}
+
+
+
+#try {
+    margin-left: 10px;
+}
+
+
+
+#btn-one, #btn-two, #btn-three, #btn-four {
+    margin: 20px;
+}
+
+#nxt-button, #nxt-buttonTwo, #nxt-buttonThree {
+    margin: 20px;
+}
+
+#count {
+    margin: 20px;
+}
+
+textarea {
+    overflow: auto;
+    resize: vertical;
+    margin: 12px;
+}
+
+
+
+button {
+    border-radius: 0;
+    min-width: 112px;
+}
+
